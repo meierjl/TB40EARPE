@@ -1,0 +1,124 @@
+track KF297339.1
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/KF297339.1.bb
+longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
+shortLabel GenBank KF297339.1
+visibility pack
+
+#############
+	 
+track 1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 1
+longLabel 1 
+	 
+track 1_FW
+parent 1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_Mock-dedup-FW-KF297339.1.bw
+longLabel Mock
+shortLabel Mock 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 1_RV
+parent 1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_Mock-dedup-RV-KF297339.1.bw
+longLabel Mock 
+shortLabel Mock 
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 2
+longLabel 2 
+	 
+track 2_FW
+parent 2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-FW-KF297339.1.bw
+longLabel WT 
+shortLabel WT
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 2_RV
+parent 2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-RV-KF297339.1.bw
+longLabel WT
+shortLabel WT
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 3
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 3 
+longLabel 3 
+	 
+track 3_FW
+parent 3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-FW-KF297339.1.bw
+longLabel WT Flavo
+shortLabel WT Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 3_RV
+parent 3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-RV-KF297339.1.bw
+longLabel WT Flavo
+shortLabel WT Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
