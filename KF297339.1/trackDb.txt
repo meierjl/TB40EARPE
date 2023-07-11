@@ -112,8 +112,8 @@ parent 3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-RV-KF297339.1.bw
-longLabel WT Flavo
-shortLabel WT Flavo
+longLabel WT Flavo 5 Prime
+shortLabel WT Flavo 5 Prime
 negateValues on
 color 153,58,29
 altColor 153,58,29
