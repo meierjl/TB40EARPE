@@ -236,4 +236,158 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+	 
+track 7
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 7
+longLabel 7
+	 
+track 7_FW
+parent 7
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockNoFlavo-dedup-FW-KF297339.1.bw
+longLabel THP-1 Mock 
+shortLabel THP-1 Mock
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 7_RV
+parent 7
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockNoFlavo-dedup-RV-KF297339.1.bw
+longLabel THP-1 Mock
+shortLabel THP-1 Mock
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 8
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 8
+longLabel 8
+	 
+track 8_FW
+parent 8
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockFlavo-dedup-FW-KF297339.1.bw
+longLabel THP-1 Mock Flavo
+shortLabel THP-1 Mock Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 8_RV
+parent 8
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockFlavo-dedup-RV-KF297339.1.bw
+longLabel THP-1 Mock Flavo
+shortLabel THP-1 Mock Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 9
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 9
+longLabel 9
+	 
+track 9_FW
+parent 9
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-FW-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi
+shortLabel THP-1 Infected 72 hpi
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 9_RV
+parent 9
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-RV-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi
+shortLabel THP-1 Infected 72 hpi
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 10
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 10
+longLabel 10
+	 
+track 10_FW
+parent 10
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-FW-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi Flavo
+shortLabel THP-1 Infected 72 hpi Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 10_RV
+parent 10
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-RV-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi Flavo
+shortLabel THP-1 Infected 72 hpi Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+
 
