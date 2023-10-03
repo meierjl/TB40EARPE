@@ -22,8 +22,8 @@ parent 1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_Mock-dedup-FW-KF297339.1.bw
-longLabel Mock 
-shortLabel Mock 
+longLabel ARPE Mock 
+shortLabel ARPE Mock 
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -36,8 +36,8 @@ parent 1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_Mock-dedup-RV-KF297339.1.bw
-longLabel Mock 
-shortLabel Mock 
+longLabel ARPE Mock 
+shortLabel ARPE Mock 
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -60,8 +60,8 @@ parent 2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-FW-KF297339.1.bw
-longLabel WT 
-shortLabel WT 
+longLabel ARPE Infected  
+shortLabel ARPE Infected  
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -74,8 +74,8 @@ parent 2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-RV-KF297339.1.bw
-longLabel WT 
-shortLabel WT 
+longLabel ARPE Infected  
+shortLabel ARPE Infected   
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -98,8 +98,8 @@ parent 3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-FW-KF297339.1.bw
-longLabel WT Flavo
-shortLabel WT Flavo 
+longLabel ARPE Infected Flavo
+shortLabel ARPE Infected Flavo 
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -112,8 +112,8 @@ parent 3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-RV-KF297339.1.bw
-longLabel WT Flavo 
-shortLabel WT Flavo 
+longLabel ARPE Infected Flavo 
+shortLabel ARPE Infected Flavo 
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -136,8 +136,8 @@ parent 4
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_Mock-dedup-FW-5prime-KF297339.1.bw
-longLabel Mock 5 Prime
-shortLabel Mock 5 Prime
+longLabel ARPE Mock 5 Prime
+shortLabel ARPE Mock 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -150,8 +150,8 @@ parent 4
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_Mock-dedup-RV-5prime-KF297339.1.bw
-longLabel Mock 5 Prime
-shortLabel Mock 5 Prime
+longLabel ARPE Mock 5 Prime
+shortLabel ARPE Mock 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -174,8 +174,8 @@ parent 5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-FW-5prime-KF297339.1.bw
-longLabel WT 5 Prime
-shortLabel WT 5 Prime
+longLabel ARPE Infected 5 Prime
+shortLabel ARPE Infected 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -188,8 +188,8 @@ parent 5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-RV-5prime-KF297339.1.bw
-longLabel WT 5 Prime
-shortLabel WT 5 Prime
+longLabel ARPE Infected 5 Prime
+shortLabel ARPE Infected 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -212,8 +212,8 @@ parent 6
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-FW-5prime-KF297339.1.bw
-longLabel WT Flavo 5 Prime
-shortLabel WT Flavo 5 Prime
+longLabel ARPE Infected Flavo 5 Prime
+shortLabel ARPE Infected Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -226,8 +226,8 @@ parent 6
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-RV-5prime-KF297339.1.bw
-longLabel WT Flavo 5 Prime
-shortLabel WT Flavo 5 Prime
+longLabel ARPE Infected Flavo 5 Prime
+shortLabel ARPE Infected Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -236,7 +236,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
-	 
+	 	 
 track 7
 compositeTrack on
 type bigWig 0 1000
@@ -291,8 +291,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Mock Flavo
 shortLabel THP-1 Mock Flavo
 negateValues off
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -305,8 +305,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Mock Flavo
 shortLabel THP-1 Mock Flavo
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -367,8 +367,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Infected 72 hpi Flavo
 shortLabel THP-1 Infected 72 hpi Flavo
 negateValues off
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -381,6 +381,44 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Infected 72 hpi Flavo
 shortLabel THP-1 Infected 72 hpi Flavo
 negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 11
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 11
+longLabel 11
+	 
+track 11_FW
+parent 11
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockNoFlavo-dedup-FW-5-KF297339.1.bw
+longLabel THP-1 Mock 5 Prime
+shortLabel THP-1 Mock 5 Prime
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 11_RV
+parent 11
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockNoFlavo-dedup-RV-5-KF297339.1.bw
+longLabel THP-1 Mock 5 Prime
+shortLabel THP-1 Mock 5 Prime
+negateValues on
 color 113,35,124
 altColor 113,35,124
 alwaysZero on
@@ -388,6 +426,119 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+	 
+track 12
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12
+longLabel 12
+	 
+track 12_FW
+parent 12
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockFlavo-dedup-FW-5-KF297339.1.bw
+longLabel THP-1 Mock Flavo 5 Prime
+shortLabel THP-1 Mock Flavo 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12_RV
+parent 12
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsMockFlavo-dedup-RV-5-KF297339.1.bw
+longLabel THP-1 Mock Flavo 5 Prime
+shortLabel THP-1 Mock Flavo 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
 
+#############
+	 
+track 13
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 13
+longLabel 13
+	 
+track 13_FW
+parent 13
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-FW-5-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi 5 Prime
+shortLabel THP-1 Infected 72 hpi 5 Prime
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 13_RV
+parent 13
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-RV-5-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi 5 Prime
+shortLabel THP-1 Infected 72 hpi 5 Prime
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 14
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 14
+longLabel 14
+	 
+track 14_FW
+parent 14
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-FW-5-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi Flavo 5 Prime
+shortLabel THP-1 Infected 72 hpi Flavo 5 Prime
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 14_RV
+parent 14
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-RV-5-KF297339.1.bw
+longLabel THP-1 Infected 72 hpi Flavo 5 Prime
+shortLabel THP-1 Infected 72 hpi Flavo 5 Prime
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
 
 
