@@ -291,8 +291,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Mock Flavo
 shortLabel THP-1 Mock Flavo
 negateValues off
-color 34,34,255
-altColor 34,34,255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -305,8 +305,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Mock Flavo
 shortLabel THP-1 Mock Flavo
 negateValues on
-color 34,34,255
-altColor 34,34,255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -367,8 +367,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Infected 72 hpi Flavo
 shortLabel THP-1 Infected 72 hpi Flavo
 negateValues off
-color 34,34,255
-altColor 34,34,255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -381,8 +381,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Infected 72 hpi Flavo
 shortLabel THP-1 Infected 72 hpi Flavo
 negateValues on
-color 34,34,255
-altColor 34,34,255
+color 153,58,29
+altColor 153,58,29
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -405,8 +405,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Mock 5 Prime
 shortLabel THP-1 Mock 5 Prime
 negateValues off
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -419,8 +419,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Mock 5 Prime
 shortLabel THP-1 Mock 5 Prime
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -481,8 +481,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Infected 72 hpi 5 Prime
 shortLabel THP-1 Infected 72 hpi 5 Prime
 negateValues off
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -495,8 +495,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE
 longLabel THP-1 Infected 72 hpi 5 Prime
 shortLabel THP-1 Infected 72 hpi 5 Prime
 negateValues on
-color 113,35,124
-altColor 113,35,124
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
