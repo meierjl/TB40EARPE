@@ -14,8 +14,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 1
-longLabel 1 
+shortLabel ARPE Mock 
+longLabel ARPE Mock 
 	 
 track 1_FW
 parent 1
@@ -52,8 +52,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 2
-longLabel 2 
+shortLabel ARPE Infected  
+longLabel ARPE Infected  
 	 
 track 2_FW
 parent 2
@@ -90,8 +90,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 3 
-longLabel 3 
+shortLabel ARPE Infected Flavo
+longLabel ARPE Infected Flavo
 	 
 track 3_FW
 parent 3
@@ -128,8 +128,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 4
-longLabel 4
+shortLabel ARPE Mock 5 Prime
+longLabel ARPE Mock 5 Prime
 	 
 track 4_FW
 parent 4
@@ -166,8 +166,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 5
-longLabel 5
+shortLabel ARPE Infected 5 Prime
+longLabel ARPE Infected 5 Prime
 	 
 track 5_FW
 parent 5
@@ -204,8 +204,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 6
-longLabel 6
+shortLabel ARPE Infected Flavo 5 Prime
+longLabel ARPE Infected Flavo 5 Prime
 	 
 track 6_FW
 parent 6
@@ -242,8 +242,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 7
-longLabel 7
+shortLabel THP-1 Mock
+longLabel THP-1 Mock
 	 
 track 7_FW
 parent 7
@@ -280,8 +280,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 8
-longLabel 8
+shortLabel THP-1 Mock Flavo
+longLabel THP-1 Mock Flavo
 	 
 track 8_FW
 parent 8
@@ -318,8 +318,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 9
-longLabel 9
+shortLabel THP-1 Infected 72 hpi
+longLabel THP-1 Infected 72 hpi
 	 
 track 9_FW
 parent 9
@@ -356,8 +356,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 10
-longLabel 10
+shortLabel THP-1 Infected 72 hpi Flavo
+longLabel THP-1 Infected 72 hpi Flavo
 	 
 track 10_FW
 parent 10
@@ -394,8 +394,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 11
-longLabel 11
+shortLabel THP-1 Mock 5 Prime
+longLabel THP-1 Mock 5 Prime
 	 
 track 11_FW
 parent 11
@@ -432,8 +432,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 12
-longLabel 12
+shortLabel THP-1 Mock Flavo 5 Prime
+longLabel THP-1 Mock Flavo 5 Prime
 	 
 track 12_FW
 parent 12
@@ -470,8 +470,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 13
-longLabel 13
+shortLabel THP-1 Infected 72 hpi 5 Prime
+longLabel THP-1 Infected 72 hpi 5 Prime
 	 
 track 13_FW
 parent 13
@@ -508,8 +508,8 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 14
-longLabel 14
+shortLabel THP-1 Infected 72 hpi Flavo 5 Prime
+longLabel THP-1 Infected 72 hpi Flavo 5 Prime
 	 
 track 14_FW
 parent 14
