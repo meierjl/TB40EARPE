@@ -52,16 +52,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel ARPE Infected  
-longLabel ARPE Infected  
+shortLabel ARPE 96 hpi  
+longLabel ARPE 96 hpi 
 	 
 track 2_FW
 parent 2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-FW-KF297339.1.bw
-longLabel ARPE Infected  
-shortLabel ARPE Infected  
+longLabel ARPE 96 hpi  
+shortLabel ARPE 96 hpi    
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -74,8 +74,8 @@ parent 2
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-RV-KF297339.1.bw
-longLabel ARPE Infected  
-shortLabel ARPE Infected   
+longLabel ARPE 96 hpi    
+shortLabel ARPE 96 hpi     
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -90,16 +90,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel ARPE Infected Flavo
-longLabel ARPE Infected Flavo
+shortLabel ARPE 96 hpi Flavo
+longLabel ARPE 96 hpi Flavo
 	 
 track 3_FW
 parent 3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-FW-KF297339.1.bw
-longLabel ARPE Infected Flavo
-shortLabel ARPE Infected Flavo 
+longLabel ARPE 96 hpi Flavo   
+shortLabel ARPE 96 hpi Flavo   
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -112,8 +112,8 @@ parent 3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-RV-KF297339.1.bw
-longLabel ARPE Infected Flavo 
-shortLabel ARPE Infected Flavo 
+longLabel ARPE 96 hpi Flavo    
+shortLabel ARPE 96 hpi Flavo    
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -166,16 +166,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel ARPE Infected 5 Prime
-longLabel ARPE Infected 5 Prime
+shortLabel ARPE 96 hpi 5 Prime
+longLabel ARPE 96h pi 5 Prime
 	 
 track 5_FW
 parent 5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-FW-5prime-KF297339.1.bw
-longLabel ARPE Infected 5 Prime
-shortLabel ARPE Infected 5 Prime
+longLabel ARPE 96 hpi 5 Prime
+shortLabel ARPE 96 hpi 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -188,8 +188,8 @@ parent 5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_No_Flavo-dedup-RV-5prime-KF297339.1.bw
-longLabel ARPE Infected 5 Prime
-shortLabel ARPE Infected 5 Prime
+longLabel ARPE 96 hpi 5 Prime
+shortLabel ARPE 96 hpi 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -204,16 +204,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel ARPE Infected Flavo 5 Prime
-longLabel ARPE Infected Flavo 5 Prime
+shortLabel ARPE 96 hpi Flavo 5 Prime
+longLabel ARPE 96 hpi Flavo 5 Prime
 	 
 track 6_FW
 parent 6
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-FW-5prime-KF297339.1.bw
-longLabel ARPE Infected Flavo 5 Prime
-shortLabel ARPE Infected Flavo 5 Prime
+longLabel ARPE 96 hpi Flavo 5 Prime
+shortLabel ARPE 96 hpi Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -226,8 +226,8 @@ parent 6
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/ARPE/ARPE_TB40E_WT_Flavo-dedup-RV-5prime-KF297339.1.bw
-longLabel ARPE Infected Flavo 5 Prime
-shortLabel ARPE Infected Flavo 5 Prime
+longLabel ARPE 96 hpi Flavo 5 Prime
+shortLabel ARPE 96 hpi Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -318,16 +318,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel THP-1 Infected 72 hpi
-longLabel THP-1 Infected 72 hpi
+shortLabel THP-1 72 hpi
+longLabel THP-1 72 hpi
 	 
 track 9_FW
 parent 9
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-FW-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi
-shortLabel THP-1 Infected 72 hpi
+longLabel THP-1 72 hpi
+shortLabel THP-1 72 hpi
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -340,8 +340,8 @@ parent 9
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-RV-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi
-shortLabel THP-1 Infected 72 hpi
+longLabel THP-1 72 hpi
+shortLabel THP-1 72 hpi
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -356,16 +356,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel THP-1 Infected 72 hpi Flavo
-longLabel THP-1 Infected 72 hpi Flavo
+shortLabel THP-1 72 hpi Flavo
+longLabel THP-1 72 hpi Flavo
 	 
 track 10_FW
 parent 10
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-FW-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi Flavo
-shortLabel THP-1 Infected 72 hpi Flavo
+longLabel THP-1 72 hpi Flavo
+shortLabel THP-1 72 hpi Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -378,8 +378,8 @@ parent 10
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-RV-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi Flavo
-shortLabel THP-1 Infected 72 hpi Flavo
+longLabel THP-1 72 hpi Flavo
+shortLabel THP-1 72 hpi Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -470,16 +470,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel THP-1 Infected 72 hpi 5 Prime
-longLabel THP-1 Infected 72 hpi 5 Prime
+shortLabel THP-1 72 hpi 5 Prime
+longLabel THP-1 72 hpi 5 Prime
 	 
 track 13_FW
 parent 13
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-FW-5-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi 5 Prime
-shortLabel THP-1 Infected 72 hpi 5 Prime
+longLabel THP-1 72 hpi 5 Prime
+shortLabel THP-1 72 hpi 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -492,8 +492,8 @@ parent 13
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiNoFlavo-dedup-RV-5-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi 5 Prime
-shortLabel THP-1 Infected 72 hpi 5 Prime
+longLabel THP-1 72 hpi 5 Prime
+shortLabel THP-1 72 hpi 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -508,16 +508,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel THP-1 Infected 72 hpi Flavo 5 Prime
-longLabel THP-1 Infected 72 hpi Flavo 5 Prime
+shortLabel THP-1 72 hpi Flavo 5 Prime
+longLabel THP-1 72 hpi Flavo 5 Prime
 	 
 track 14_FW
 parent 14
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-FW-5-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi Flavo 5 Prime
-shortLabel THP-1 Infected 72 hpi Flavo 5 Prime
+longLabel THP-1 72 hpi Flavo 5 Prime
+shortLabel THP-1 72 hpi Flavo 5 Prime
 negateValues off
 color 34,34,255
 altColor 34,34,255
@@ -530,8 +530,8 @@ parent 14
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/THP-1/THP-1cellsTB40-EmCherryIE2-GFP72hpiFlavo-dedup-RV-5-KF297339.1.bw
-longLabel THP-1 Infected 72 hpi Flavo 5 Prime
-shortLabel THP-1 Infected 72 hpi Flavo 5 Prime
+longLabel THP-1 72 hpi Flavo 5 Prime
+shortLabel THP-1 72 hpi Flavo 5 Prime
 negateValues on
 color 34,34,255
 altColor 34,34,255
@@ -546,16 +546,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel HFF Infected 72 hpi
-longLabel HFF Infected 72 hpi
+shortLabel HFF 72 hpi
+longLabel HFF 72 hpi
 	 
 track 15_FW
 parent 15
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-FW.bw
-longLabel HFF Infected 72 hpi
-shortLabel HFF Infected 72 hpi
+longLabel HFF 72 hpi
+shortLabel HFF 72 hpi
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -568,8 +568,8 @@ parent 15
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-RV.bw
-longLabel HFF Infected 72 hpi
-shortLabel HFF Infected 72 hpi
+longLabel HFF 72 hpi
+shortLabel HFF 72 hpi
 negateValues on
 color 113,35,124
 altColor 113,35,124
@@ -584,16 +584,16 @@ compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel HFF Infected 72 hpi Flavo
-longLabel HFF Infected 72 hpi Flavo
+shortLabel HFF 72 hpi Flavo
+longLabel  HFF 72 hpi Flavo
 	 
 track 16_FW
 parent 16
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
-longLabel HFF Infected 72 hpi Flavo
-shortLabel HFF Infected 72 hpi Flavo
+longLabel  HFF 72 hpi Flavo
+shortLabel  HFF 72 hpi Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -606,8 +606,8 @@ parent 16
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
-longLabel HFF Infected 72 hpi Flavo
-shortLabel HFF Infected 72 hpi Flavo
+longLabel  HFF 72 hpi Flavo
+shortLabel  HFF 72 hpi Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
