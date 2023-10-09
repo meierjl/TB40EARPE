@@ -540,5 +540,83 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+ 
+track 15
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel HFF Infected 72 hpi
+longLabel HFF Infected 72 hpi
+	 
+track 15_FW
+parent 15
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-FW.bw
+longLabel HFF Infected 72 hpi
+shortLabel HFF Infected 72 hpi
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 15_RV
+parent 15
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-KF297339.1-Norm-RV.bw
+longLabel HFF Infected 72 hpi
+shortLabel HFF Infected 72 hpi
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 16
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel HFF Infected 72 hpi Flavo
+longLabel HFF Infected 72 hpi Flavo
+	 
+track 16_FW
+parent 16
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
+longLabel HFF Infected 72 hpi Flavo
+shortLabel HFF Infected 72 hpi Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 16_RV
+parent 16
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40EARPE/master/KF297339.1/HFF/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
+longLabel HFF Infected 72 hpi Flavo
+shortLabel HFF Infected 72 hpi Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	
+
 
 
